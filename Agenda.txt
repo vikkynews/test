@@ -1,0 +1,12 @@
+1.	Note down Business knowledge key points, to discuss with the team later.
+2.	Alarm them about business KT, arrange some KT sessions that would include all IRIS team members.
+3.	How they handle GIT issues (merge etc.).
+4.	How SFT dev team interacting with other teams(eg. devOps team), who should be the point of contact?
+5.	What are the future plans and expectations from SFT dev team as well as IRIS team.
+6.	Overview of AutoSys cycle, dig to get the detailed view(in terms of business).  
+7.	Understand deployment activities done at production.
+8.	Input file reduction (utility).
+9.	How environment variables are set in sh files also how properties files and other external resources are being loaded.
+10.	How to interact with the Abinitio team.
+11.	Flow of Autosys with simplest data set.
+12.	Better approach for meetings (meeting recordings).
